@@ -1,0 +1,15 @@
+sentencepiece
+openai
+pinecone-client
+nltk
+langchain
+tiktoken
+google-search-results
+faiss-cpu
+ipython
+pandas
+scikit-learn
+pygame
+flask
+streamlit
+dash
